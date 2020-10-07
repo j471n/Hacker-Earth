@@ -17,3 +17,15 @@
 | Jadoo Hates Numbers         | [Question](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/)         | [Solution](https://github.com/j471n/Hacker-Earth/blob/master/Python/Input%20and%20Output/05_%20Jadoo%20Hates%20Numbers.py)        |
 
 
+### Numbers
+
+| Name                        | Question                                                                                                                                     | Solution                                                                                                                          |
+| --------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| Binary Sequence             | [Question](https://www.hackerearth.com/practice/python/getting-started/numbers/practice-problems/algorithm/binary-sequence-dbaf9d61/)        | [Solution](https://github.com/j471n/Hacker-Earth/blob/master/Python/Numbers/Binary%20Sequence.py)                                 |
+
+
+### Dictionary
+
+| Name                        | Question                                                                                                                                     | Solution                                                                                                                          |
+| --------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| It's Super Effective        | [Question](https://www.hackerearth.com/practice/python/working-with-data/dictionary/practice-problems/algorithm/its-super-effective-d3d721bd/submissions/)               | [Solution](https://github.com/j471n/Hacker-Earth/blob/master/Python/Dictionary/It's%20Super%20Effective.py)                       |
